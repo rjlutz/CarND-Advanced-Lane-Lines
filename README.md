@@ -1,6 +1,7 @@
 ## Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+[//]: # (Image References)
 [image1]: ./writeup-images/sample.jpg "Lane Lines"
 
 ![alt text][image1]
@@ -13,4 +14,4 @@ https://github.com/rjlutz/CarND-Advanced-Lane-Lines
 [Write Up and Project Notebook](https://github.com/rjlutz/CarND-Advanced-Lane-Lines/blob/master/Advanced%20Lane%20Lines.ipynb "")
 
 ## Final Video
-[Solid White Right](https://www.dropbox.com/s/4ekmrmbw5xmwnle/advanced_lane_lines.mp4?dl=0 "Demo Video")
+[Final Video](https://www.dropbox.com/s/4ekmrmbw5xmwnle/advanced_lane_lines.mp4?dl=0 "Demo Video")
