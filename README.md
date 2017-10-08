@@ -2,7 +2,7 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 [//]: # (Image References)
-[image1]: ./writeup-images/sample.jpg "Lane Lines"
+[image1]: ./writeup_images/sample.jpg "Lane Lines"
 
 ![alt text][image1]
 *Image captured from video created with this project's pipeline*
